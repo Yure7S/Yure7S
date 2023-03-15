@@ -1,21 +1,8 @@
-### Hi there 👋
+# Yure Silva
+## Stats
+[ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yure7S&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=Yure7S&show_icons=true&theme=gruvbox"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=Yure7S&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=Yure7S&show_icons=true" />
-
-</picture>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 
 <img align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -25,7 +12,6 @@
 <img align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-
 
 
           
