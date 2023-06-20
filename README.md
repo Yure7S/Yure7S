@@ -1,7 +1,7 @@
 <h1 align="center">Yure Silva</h1>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yure7S&show_icons=true&theme=highcontrast )
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yure7S&hide_progress=false&theme=highcontrast&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yure7S&show_icons=true&theme=highcontrast&include_all_commits&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yure7S&hide_progress=false&theme=highcontrast&layout=compact&card_width=467)
 
 
 ## 🛠 Tech Stack
