@@ -1,5 +1,9 @@
 <h1 align="center">Yure Silva</h1>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yure7S&show_icons=true&theme=highcontrast )
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yure7S&hide_progress=true&theme=highcontrast&layout=compact)
+
+
 ## 🛠 Tech Stack
 <img align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
