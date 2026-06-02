@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Efeito de Texto Digitado Moderno -->
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&pause=1000&color=00F2FE&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Yure+Silva+👋;Desenvolvedor+Software+Front-end+/+Full-stack;Focado+em+performance,+código+limpo+e+IA." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&pause=1000&color=00F2FE&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Yure+Silva+👋" alt="Typing SVG" />
 </div>
 
 ---
